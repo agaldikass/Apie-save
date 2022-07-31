@@ -1,0 +1,54 @@
+body{
+    background: rgba(29, 29, 132, 0.449);
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    margin: 0;
+    padding: 0;
+   
+}
+#heading{
+    text-decoration:dotted;
+    color: rgba(15, 7, 37, 0.666);
+    letter-spacing: 7px;
+    border: 3px double rgba(19, 32, 167, 0.69);
+
+
+}
+h1{
+    text-align: center;
+}
+
+.box{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    padding: 20px;
+    box-sizing: border-box;
+    background: white;
+    border-radius: 5px;
+    display: flex;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+   
+.box .text{
+    padding-left: 20px;
+}
+
+
+span{
+    color: rgba(139, 16, 30, 0.648);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.headings{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    
+}
+
+
